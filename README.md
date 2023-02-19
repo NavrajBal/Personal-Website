@@ -1,9 +1,6 @@
-# Sanity Clean Content Studio
+# Personal Website
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This is my personal website that I created using HTML, React, Tailwind, and Sass for the front end/
+While using Sanity.io for the backend.
 
-Now you can do the following things:
-
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+Here is a link to the site: https://navrajbal.netlify.app/
